@@ -1,3 +1,5 @@
+![Screenshot from 2019-11-17 21-41-16](https://user-images.githubusercontent.com/43022529/69008959-0fe12300-0983-11ea-8280-d41298d000b9.png)
+
 # Installation wizard for October
 
 The wizard installation is a recommended way to install October. It is simpler than the command-line installation and doesn't require any special skills.
